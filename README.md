@@ -26,18 +26,6 @@ Should be updated at the end of every day
   - At the end add the following lines "~/G_S_ROS/'your_workspace_name'/devel/setup.bash"
  Now you are ready to use this repository for developing the task
 
-### For pushing the changes in the repository
-  - Once the work is done run the command "git status" to know the changes done
-  - Then to add the changes done using the command "git add ."
-  - Once all the changes are staged then make a commit using the command "git commit -m “commit message”
-  - Once commit is done then push the changes to your repository by "git push"
-  - With this all the changes mode to your local repository will reflect to your respective repository
-  - Next make a pull request to the development branch in the main repository
-  - Once the pull request is merged then the respective changes will be reflected in the development branch of the main repository
-
-### Fulling the changes from the repository
-
-  - To fetch the changes from the main repository run the command "git pull". To get the latest       changes reflected in the workspace
 
 
 
