@@ -13,7 +13,6 @@ This repository contains all the required steps to learn the basics of ROS
   - Tasks
 
 # Documentation section
-Should be updated at the end of every day
   - https://docs.google.com/document/d/1DivB2bnfN-3PNTDAObTBcAg_Ol2iUpBppUpGA7hyHiM/edit?usp=sharing
 
 ### Steps to follow to get started 
